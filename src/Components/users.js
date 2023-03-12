@@ -1,0 +1,48 @@
+export const users = [
+    {
+      username: "Ali Hashir",
+      firstName: "Ali",
+      lastName: "Hashir",
+      school: "Habib University",
+      email: "ah05433@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/seed/pic1/200",
+      classLevel: "Freshmen",
+    },
+    {
+      username: "Ali Hashir",
+      firstName: "Ali",
+      lastName: "Hashir",
+      school: "Habib University",
+      email: "ah05433@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/seed/pic2/200",
+      classLevel: "Sophomore",
+    },
+    {
+      username: "Ali Hashir",
+      firstName: "Ali",
+      lastName: "Hashir",
+      school: "Habib University",
+      email: "ah05433@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/seed/pic3/200",
+      classLevel: "Junior",
+    },
+    {
+      username: "Ali Hashir",
+      firstName: "Ali",
+      lastName: "Hashir",
+      school: "Habib University",
+      email: "ah05433@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/seed/pic4/200",
+      classLevel: "Senior",
+    },
+    {
+      username: "Ali Hashir",
+      firstName: "Ali",
+      lastName: "Hashir",
+      school: "Habib University",
+      email: "ah05433@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/seed/pic5/200",
+      classLevel: "Freshmen",
+    },
+  ];
+  
